@@ -13,3 +13,21 @@ main{
     border-radius: 10px;
     margin: auto;
 }
+.lado{
+    float: right;
+}
+iframe{
+    display: flex;
+    margin: auto;
+    min-width: 320px;
+    max-width: 600px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(147, 31, 255);
+}
+a:hover{
+    text-decoration: underline;
+}
